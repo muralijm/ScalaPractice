@@ -5,10 +5,8 @@ object practice
     val name = "My FIrst Scala Program"
     println(name)
 
-    def add(a:Int,b:Int) : Int = {
-      a+b
-    }
-
-
+  }
+  def add(a:Int,b:Int) : Int = {
+    a+b
   }
 }
